@@ -10,7 +10,7 @@ Technical Skills: SQL, Snowflake, Python, R
 <br />
 
 ### Work Experience
-**Medtronic, Clinica Research Coordinator** <br />
+**Medtronic, Clinica Research Coordinator**
 - management and process implementation <br />
 
 **Medtronic, Product Support Specialist** <br />
@@ -20,6 +20,6 @@ Technical Skills: SQL, Snowflake, Python, R
 - proactive monitoring of CT, MR <br />
 <br />
 
-### Training and Certificates<br />
+###Training and Certificates <br />
 - SQL and Snowflake advanced creator training (2024) <br />
 - TOEIC (2023), C1 <br />
