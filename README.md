@@ -18,3 +18,7 @@ Technical Skills: SQL, Snowflake, Python, R
 
 **Philips, Intern** <br />
 - proactive monitoring of CT, MR <br />
+<br />
+### Trainings and Certificates
+- SQL and Snowflake advanced creator training (2024) <br />
+- TOEIC (2023), C1 <br />
