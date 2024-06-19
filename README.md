@@ -7,8 +7,11 @@ Biology, Master's Degree
 Biomedical Engineering, Bachelor's Degree
 
 ### Work Experience
-Medtronic, Clinica Research Coordinator, 
+**Medtronic, Clinica Research Coordinator 
+-x
 
-Medtronic, Product Support Specialist
+**Medtronic, Product Support Specialist
+-x
 
-Philips, Intern
+**Philips, Intern
+-x
