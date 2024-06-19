@@ -8,10 +8,10 @@ Biomedical Engineering, Bachelor's Degree, Bialystok University of Technology
 
 ### Work Experience
 **Medtronic, Clinica Research Coordinator 
--management and process implementation
+- management and process implementation
 
 **Medtronic, Product Support Specialist
--daily work with insulin pumps, CGM, SaMD
+- daily work with insulin pumps, CGM, SaMD
 
 **Philips, Intern
--proactive monitoring of CT, MR
+- proactive monitoring of CT, MR
