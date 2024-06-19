@@ -3,16 +3,12 @@ Technical Skills: SQL, Snowflake, Python, R
 
 ### Education
 Biology, Master's Degree
+
 Biomedical Engineering, Bachelor's Degree
 
 ### Work Experience
-Medtronic, Clinica Research Coordinator, Product Support Specialist
-- x
-- x
+Medtronic, Clinica Research Coordinator, 
+
+Medtronic, Product Support Specialist
 
 Philips, Intern
-- x
-- x
-
-### Projects
-xxx
