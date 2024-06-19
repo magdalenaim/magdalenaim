@@ -9,6 +9,7 @@ Biomedical Engineering, Bachelor's Degree
 Medtronic, Clinica Research Coordinator, Product Support Specialist
 - x
 - x
+
 Philips, Intern
 - x
 - x
