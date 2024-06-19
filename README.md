@@ -1,16 +1,17 @@
-## Hi there 👋
+# Biomedical Engineer
+Technical Skills: SQL, Snowflake, Python, R
 
-<!--
-**magdalenaim/magdalenaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+Biology, Master's Degree
+Biomedical Engineering, Bachelor's Degree
 
-Here are some ideas to get you started:
+### Work Experience
+Medtronic, Clinica Research Coordinator, Product Support Specialist
+- x
+- x
+Philips, Intern
+- x
+- x
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+xxx
