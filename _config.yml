@@ -1,6 +1,15 @@
 title: Magdalena Michałowska
-description: Welcome to my page! Feel free to contact me. 
+description: Welcome to my page! 
+Feel free to contact me. 
+github_username: magdalenaim
+linkedin_username: magdalena-michalowska
+# Image settings
+logo: "IMG_5672.jpg"  # Path to your logo
+#background_image: "/assets/images/your-background.jpg"  # Path to your background image
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
+author: Magdalena Michałowska
+email: magdalena.michalowskam@gmail.com
+
 theme: jekyll-theme-minimal
