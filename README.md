@@ -12,7 +12,7 @@ Technical Skills: SQL, Snowflake, Python, Power BI, Excel, R
 <br />
 
 ### Work Experience
-**Medtronic, Clinica Research Coordinator** <br />
+**Medtronic, Clinical Research Coordinator** <br />
 - management and process implementation <br />
 - daily coordination of clinical trails in Central and Eastern Europe <br />
 - updating and maitaining projects timelines <br />
