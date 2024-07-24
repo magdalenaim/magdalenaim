@@ -1,4 +1,4 @@
-# Biomedical Engineer & Biologist
+# Biomedical Engineer&Biologist
 Technical Skills: SQL, Snowflake, Python, Power BI, Excel, R
 Area Of Interest: healthcare, autoimmune disease, data analysis, statistics
 
